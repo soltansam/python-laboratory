@@ -6,4 +6,4 @@ print(dt1)
 print(dt2)
 
 duration = (dt1 - dt2)
-print(duration.total_seconds())
+print(type(duration)) # this returns a timedelta object
