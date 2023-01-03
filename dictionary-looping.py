@@ -9,5 +9,5 @@ my_dictionary = {
 print(my_dictionary)
 
 for k, v in my_dictionary.items():
-    print(f"\nkeys are: {k}")
-    print(f"values are: {v}")
+    print(f"\nkey is: {k}")
+    print(f"value is: {v}")
